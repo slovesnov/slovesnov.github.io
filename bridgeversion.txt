@@ -1,7 +1,7 @@
 5.3
 [en]
-links changed
-fixed bug with new version check
+links have been changed
+a bug with new version checking has been fixed
 [ru]
 изменены ссылки
 исправлен баг проверки новой версии
